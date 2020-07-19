@@ -11,5 +11,3 @@ class Kid
     @name = name
   end
 end
-
-angelina = Kid.new("Angelina")
