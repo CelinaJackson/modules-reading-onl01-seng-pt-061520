@@ -7,5 +7,6 @@ class Kid
   def initialize(name)
     @name = name
   end
-  
 end
+
+angelina = Kid.new("Angelina")
