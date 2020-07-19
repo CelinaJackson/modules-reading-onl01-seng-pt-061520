@@ -11,5 +11,3 @@ class Dancer
     @name = name
   end
 end
-
-mikhail_baryshnikov = Dancer.new("Mikhail")
