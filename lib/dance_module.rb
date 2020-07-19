@@ -15,6 +15,3 @@ module Dance
     "Thank you, thank you. It was a pleasure to dance for you all."
   end
 end
-
-puts "#{angelina.name} says: #{angelina.twirl}"
-puts "#{mikhail_baryshnikov.name} says: #{mikhail_baryshnikov.take_a_bow}"
