@@ -4,5 +4,4 @@ module MetaDancing
   end
 end
 
-puts Kid.metadata
-puts Dancer.metadata
+
