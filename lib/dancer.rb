@@ -7,5 +7,6 @@ class Dancer
   def initialize(name)
     @name = name
   end
-  
 end
+
+mikhail_baryshnikov = Dancer.new("Mikhail")
